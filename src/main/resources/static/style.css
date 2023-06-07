@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.newsArticle {
+    display: flex;
+    margin-bottom: 5rem;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.saveButton{
+    font-size: large;
+}
